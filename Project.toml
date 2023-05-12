@@ -1,0 +1,8 @@
+name = "lbm"
+uuid = "a6840511-c949-48af-9dfe-3c4700d23984"
+authors = ["meetcfd <meetparikh99@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
